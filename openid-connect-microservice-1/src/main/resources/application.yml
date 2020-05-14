@@ -3,4 +3,5 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: http://localhost:8180/auth/realms/mobi-platform
+          issuer-uri: http://localhost:8080/auth/realms/mosaic
+
